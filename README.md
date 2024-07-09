@@ -1,2 +1,2 @@
-# example-git-pull
+# Pratice git-pull
 Practice pull comand
