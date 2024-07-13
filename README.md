@@ -1,2 +1,2 @@
-# Pratice git-pull
+# Pratice git-pull(jhari)
 Practice pull comand
